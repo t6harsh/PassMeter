@@ -69,7 +69,7 @@ export function GradeCalculator() {
               <BookOpen className="w-6 h-6 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold font-sans">ReadOrbit</h1>
+              <h1 className="text-2xl font-bold font-sans">PassMeter</h1>
               <p className="text-sm text-muted-foreground font-mono">IITM BS Grade Calculator</p>
             </div>
           </div>
